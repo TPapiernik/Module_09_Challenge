@@ -40,6 +40,7 @@ MANIFEST
 *_NAMES.txt
 config.py
 *.zip
+Analysis/
 Metadata/
 Starter_Code/
 hawaii_original.sqlite
