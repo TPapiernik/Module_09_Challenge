@@ -13,7 +13,7 @@ to temperature data for the months of June and December in Oahu, Hawaii.
 ### Resources
 
 - Software:
-	- Jupyter notebook server 6.3.0, running Python 3.7.10 64-bit (Dependencies: numpy, sqlalchemy)
+	- Jupyter notebook server 6.3.0, running Python 3.7.10 64-bit (Dependencies: numpy, pandas, sqlalchemy)
 - Data: Weather Station Data Acquired from NOAA Weather Stations in the US State of Hawaii. Stored in a SQLite Database and provided by potential investor W. Avy:
 	`hawaii.sqlite`
 
